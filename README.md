@@ -3,7 +3,6 @@
 # 👨‍💻 Python Backend Developer  
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-Web%20Framework-092E20?logo=django)
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker)
 ![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-FF6F00?logo=websocket)
@@ -17,7 +16,7 @@ I value **clean code, maintainability, and performance** in every project I work
 ---
 
 ### 🔧 Core Skills  
-- **Python** (FastAPI, Django)  
+- **Python** (Django)  
 - **WebSockets** (real-time communication)  
 - **Docker** (containerized deployments)  
 - RESTful & Async API design  
@@ -34,7 +33,7 @@ I value **clean code, maintainability, and performance** in every project I work
 ---
 
 ### 📂 Featured Projects  
-- 🔹 [Online PDP](https://github.com/mirjalolpro/online_pdp) – FastAPI/Django-based platform    
+- 🔹 [CodePro.uz](https://github.com/mirjalolpro/online_pdp) – Django-based platform    
 - 🔹 More projects coming soon...  
 
 ---
